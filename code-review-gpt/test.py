@@ -58,3 +58,4 @@ if __name__ == "__main__":
     unsorted_list = [64, 34, 25, 12, 22, 11, 90]
     sorted_list = bubble_sort(unsorted_list)
     print("排序后的列表:", sorted_list)
+    print("test")
